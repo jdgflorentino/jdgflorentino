@@ -2,8 +2,8 @@
 
 
 
-- 📊 Trabalho como perita contábil desde 2017 e estou em transição de carreira para a área de TI.
-- 🌱 Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/) com previsão de formação para dezembro de 2022.
+- 📊 Sou Software Engenier I na CloudWalk
+- 🌱 Atualmente estudo RoR
 - 👩‍🦱 Pronomes: ela/dela.
 
 
