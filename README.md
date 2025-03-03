@@ -2,7 +2,7 @@
 
 
 
-- 📊 Sou Software Engenier I na CloudWalk
+- 📊 Sou Software Engineer I na CloudWalk
 - 🌱 Atualmente estudo RoR
 - 👩‍🦱 Pronomes: ela/dela.
 
